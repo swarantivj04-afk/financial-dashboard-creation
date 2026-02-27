@@ -1,0 +1,1 @@
+This project involves building an interactive Power BI dashboard to track financial KPIs, including revenue trends, budget vs actuals, and cash flow, with filters and drill-down capabilities. Deliverables include a .pbix file and a 1-page explanation.
